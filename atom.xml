@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sakarya Korsan Taksi | Sabiha Gökçen Yolu ve Sapanca</title>
+  <link href="https://sakaryakorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://sakaryakorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://sakaryakorsantaksi.github.io/</id>
+  <updated>2026-11-19T19:28:53.537Z</updated>
+  <author><name>Sakarya Korsan Taksi</name></author>
+  <entry>
+    <title>Sakarya Korsan Taksi | Sabiha Gökçen Yolu ve Sapanca</title>
+    <link href="https://sakaryakorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://sakaryakorsantaksi.github.io/</id>
+    <updated>2026-11-19T19:28:53.537Z</updated>
+    <summary>Sakarya korsan taksi hattı: Sabiha Gökçen Havalimanı Adapazarı'ndan 119 km, Sapanca oteller ve bungalovlar, Karasu, Kocaali, Taraklı ve Hendek yolu. 7/24.</summary>
+  </entry>
+</feed>
